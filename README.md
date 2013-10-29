@@ -2,7 +2,7 @@
 
 Запуск:
 
-```
+``` bash
 curl -fsSL https://github.com/stamm/birman_layout_normal_icons/raw/master/change.sh | bash
 ```
 
